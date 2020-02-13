@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAVIZACYNQ4ZAGGKHB"
-  secret_key = "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"
+  access_key = "##################"
+  secret_key = "##################"
 }
 
 # Deploy Storage Resources
